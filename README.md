@@ -24,6 +24,8 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<p align="left"> Read my Blog @https://medium.com/@siddharth.prakashiitbhu</p>
+
 
 <p align="left">Hi 👋! My name is Siddharth a Undergraduate Student, from IIT BHU<br><br>- 🔭 Have a deep interest in Machine learning, Deep Learning and related field<br>- 😴 In meantime in also do some Web Development<br>- 📚 I'm currently learning Machine learning and its application in Medical Sciences<br>- ⚡ In my free time I play Guitar, Chill with friend and Overthink.</p>
 
