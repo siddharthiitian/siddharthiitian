@@ -78,7 +78,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://image.pngaaa.com/747/5543747-middle.png" height="40" alt="git logo"  />
+  <img src="https://www.mlflow.org/docs/1.20.2/_static/MLflow-logo-final-black.png" height="40" alt="git logo"  />
 </div>
 
 ###
