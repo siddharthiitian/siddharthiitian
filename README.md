@@ -22,11 +22,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 Undergraduate Student at **IIT BHU**
-- 🔬 Passionate about **Machine Learning**, **Deep Learning**, and their applications in **Medical Sciences**
-- 🌐 I also enjoy **Web Development** in my free time
-- 🧠 Currently diving deeper into **ML for Healthcare**
-- 🎸 Outside of tech, I love playing the **guitar**, chilling with friends, and yes, a bit of overthinking
-- 📝 Read my blog on [Medium](https://medium.com/@siddharth.prakashiitbhu)
+- I love both research and engineering.
+- 📝 I write blogs on [Medium](https://medium.com/@siddharth.prakashiitbhu)
 
 ---
 
